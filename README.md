@@ -11,7 +11,7 @@ Estudos de séries temporais envolvem a análise de dados coletados ao longo do 
 A abordagem será feita por tópicos teóricos aliados às práticas de aprendizagem de modo simultâneo aos estudos. 
 
 <li> Conceitos Básicos <br>
-  Definição do que é uma série temporal, suas características, como identificá-las e a importância de analisá-las. Também pode incluir a introdução a conceitos como estacionariedade, autocorrelação e autocorrelação parcial;</li><br> 
+  Definição do que é uma série temporal, suas características, como identificá-las e a importância de analisá-las. Também inclui a introdução a conceitos como estacionariedade, autocorrelação e autocorrelação parcial;</li><br> 
 
 <li> Análise Exploratória <br>
   Como visualizar séries temporais e realizar uma análise exploratória. Isso irá envolver a identificação de tendências, padrões sazonais, outliers e outras características importantes que podem influenciar os modelos de séries temporais;</li><br>
