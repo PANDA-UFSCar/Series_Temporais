@@ -8,7 +8,7 @@ Yago Pimenta <br>
 Estudos de séries temporais envolvem a análise de dados coletados ao longo do tempo para identificar padrões, tendências ou ciclos. Esses estudos são úteis em muitos campos, incluindo economia, finanças, meteorologia e ciências sociais, para prever futuros eventos ou comportamentos com base em dados históricos. As técnicas de análise de séries temporais podem variar desde modelos simples, como médias móveis, até modelos mais complexos, como a auto-regressão e modelos de médias móveis integradas (ARIMA).<br>
 
 ## **3. Tópicos**
-A abordagem será feita por tópicos teóricos aliados às práticas de aprendizagem de modo simultâneo aos estudos. Na fase final do cronograma, propõe-se um projeto de aplicação da análise em séries temporais do mercado financeiro.<br>
+A abordagem será feita por tópicos teóricos aliados às práticas de aprendizagem de modo simultâneo aos estudos. 
 
 <li> Conceitos Básicos <br>
   Definição do que é uma série temporal, suas características, como identificá-las e a importância de analisá-las. Também pode incluir a introdução a conceitos como estacionariedade, autocorrelação e autocorrelação parcial;</li><br> 
