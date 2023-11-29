@@ -1,26 +1,48 @@
-# Séries Temporais
+# Séries Temporais 2023-2
 ## **1. Integrantes**<br>
-Evandro Vianna <br>
+Daniel Hiroyuki Watanabe<br>
 Júlia Ap.ª Sousa de Oliveira <br>
+Pedro Klesse <br>
+Victor Bonometo <br>
 Yago Pimenta <br>
 
-## **2. Área de Estudo**<br>
-Estudos de séries temporais envolvem a análise de dados coletados ao longo do tempo para identificar padrões, tendências ou ciclos. Esses estudos são úteis em muitos campos, incluindo economia, finanças, meteorologia e ciências sociais, para prever futuros eventos ou comportamentos com base em dados históricos. As técnicas de análise de séries temporais podem variar desde modelos simples, como médias móveis, até modelos mais complexos, como a auto-regressão e modelos de médias móveis integradas (ARIMA).<br>
+## **2. Escopo**<br>
+Ao analisarmos o preço de uma ação, é possível enquadrar essa observação dentro de um intervalo de tempo. Essa abordagem é fundamental para monitorar a evolução dessa variável ao longo do tempo, transformando-a em uma série temporal. As séries temporais, por sua vez, apresentam características únicas, tais como tendências e sazonalidades.
 
-## **3. Tópicos**
-A abordagem será feita por tópicos teóricos aliados às práticas de aprendizagem de modo simultâneo aos estudos. 
+Essa perspectiva temporal abre caminho para a aplicação de métodos estatísticos específicos para séries temporais, permitindo a modelagem do comportamento passado e a formulação de previsões pontuais. Dessa forma, é possível não apenas compreender o histórico da ação, mas também antecipar possíveis padrões futuros, contribuindo para uma análise mais abrangente e embasada do desempenho do ativo no mercado financeiro.
+<br>
 
-<li> Conceitos Básicos <br>
-  Definição do que é uma série temporal, suas características, como identificá-las e a importância de analisá-las. Também inclui a introdução a conceitos como estacionariedade, autocorrelação e autocorrelação parcial;</li><br> 
+## **3. DataSet**<br>
 
-<li> Análise Exploratória <br>
-  Como visualizar séries temporais e realizar uma análise exploratória. Isso irá envolver a identificação de tendências, padrões sazonais, outliers e outras características importantes que podem influenciar os modelos de séries temporais;</li><br>
+Qual o tema do dataset proposto? <br>
+Basicamente faz uma comparação de ações negociadas no dia entre grandes companhias (Microsoft, Alphabet, Tesla, Amazon, Apple, Meta, Nvidia), e divide-se em tipos de ações vendidas no dia.
 
-<li> Modelos ARIMA <br>
-  ARIMA, que significa Modelo Autoregressivo Integrado de Médias Móveis, é uma classe de modelos usada para analisar e prever dados de séries temporais. O objetivo é aprender como construir, estimar e validar modelos ARIMA; </li><br>
+Quais são seus atributos? <br>
+Date (Data - Índice): Data a qual se refere o devido valor <br>
+Adj Close (Fechamento Ajustado): Preço de fechamento de uma ação que foi ajustado para incluir quaisquer distribuições de dividendos e mudanças devido a eventos corporativos. <br>
+Close (Fechamento): Último preço o qual a ação foi negociado no durante um dia específico. <br>
+High (Alta): O preço mais alto que uma ação foi negociada no dia específico.<br>
+Low (Baixa): O preço mais baixo que uma ação foi negociada no dia específico.<br>
+Open (Abertura): O preço de início da ação no dia em específico.<br>
+Volume: Total de ações negociadas no dia.<br>
+<br>
 
-<li> Modelos de Estado-Espaço <br>
-  São particularmente úteis para séries temporais multivariadas e para modelagem de intervenções e mudanças estruturais; </li><br>
+## **4. Metodologia**
+A abordagem será feita por metodologia a seguir: 
 
-<li> Previsão de Séries Temporais <br>
-  Prática de técnicas para prever futuros pontos de dados com base em registros de séries temporais passados. Isso pode envolver a aplicação de modelos como ARIMA, estado-espaço e algoritmo Prophet. </li><br>
+<li> Pré-processamento :white_check_mark: <br> 
+
+<li> Análise Exploratória :white_check_mark: <br>
+
+<li> Modelos de decomposição :white_check_mark: <br>
+
+<li> Estacionariedade :white_check_mark: <br>
+
+<li> Predição :bangbang: <br>
+
+<li> Avaliação de Modelos :x:<br>
+
+<li> Análise de Modelos :x: <br>
+
+<li> Análise de Indicadores Financeiros :x: <br>
+
