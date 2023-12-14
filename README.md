@@ -38,11 +38,11 @@ A abordagem será feita por metodologia a seguir:
 
 <li> Estacionariedade :white_check_mark: <br>
 
-<li> Predição :bangbang: <br>
+<li> Predição :white_check_mark: <br>
 
-<li> Avaliação de Modelos :x:<br>
+<li> Avaliação de Modelos :white_check_mark:<br>
 
-<li> Análise de Modelos :x: <br>
+<li> Análise de Modelos :bangbang: <br>
 
 <li> Análise de Indicadores Financeiros :x: <br>
 
