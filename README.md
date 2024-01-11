@@ -46,3 +46,7 @@ A abordagem será feita por metodologia a seguir:
 
 <li> Análise de Indicadores Financeiros :x: <br>
 
+* Caudas pesadas
+* Efeitos de alavancagem
+* Efeito calendário
+
