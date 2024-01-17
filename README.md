@@ -42,9 +42,9 @@ A abordagem será feita por metodologia a seguir:
 
 <li> Avaliação de Modelos :white_check_mark:<br>
 
-<li> Análise de Modelos :bangbang: <br>
+<li> Análise de Modelos :white_check_mark: <br>
 
-<li> Análise de Indicadores Financeiros :x: <br>
+<li> Análise de Indicadores Financeiros :bangbang: <br>
 
 * Caudas pesadas :x:
 * Efeitos de alavancagem :x:
